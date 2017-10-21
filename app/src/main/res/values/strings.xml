@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Website Source Code Viewer Application</string>
+    <string-array name="name">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
